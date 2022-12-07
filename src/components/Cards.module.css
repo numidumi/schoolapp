@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
+
+.card{
+    width: 280px;
+    height: 390px;
+    border-radius: 20px;
+    background-color: rgb(217, 217, 217);
+    margin-left:30px;
+    margin-top:30px;
+}
+
+.color{
+    width: 264px;
+    height: 110px;
+    padding: 8px;
+    border-radius: 20px 20px 0px 0px;
+
+}
+
+.name{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+    font-size: 20px;
+}
+
+.desc{
+    margin-top:35px;
+    padding-left: 13px;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: 'Exo 2', sans-serif;
+    width: 90%;
+}
+
+.image{
+    margin-top: -40px;
+    margin-left: 100px; 
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    background-size: contain;
+}
+
+.flag{
+    margin-top: 55px;
+    margin-left: 45px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    background-size: cover; 
+}
