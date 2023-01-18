@@ -4,12 +4,19 @@ import Cards from "./components/Cards.js";
 import atakan from "./components/images/atakan.png";
 import kris from "./components/images/kris.png";
 import metehan from "./components/images/metehan.png";
+import chris from "./components/images/chris.png";
 import serbia from "./components/images/serbia.png";
 import turkey from "./components/images/turkey.png";
+import austria from "./components/images/austria.png";
+import Header from "./components/Header/Header.js";
+import Home from "./components/subpages/Home.js";
+import Teachers from "./components/subpages/Teachers.js";
+import Students from "./components/subpages/Students.js";
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <Cards
         name="Metehan"
         lastName="Altundal"
@@ -34,6 +41,14 @@ function App() {
         colors="green"
         image={atakan}
         flag={turkey}
+      />
+      <Cards
+        name="Christoph"
+        lastName="Derigo"
+        desc="Christoph ist 19 und wurde in Dornbirn geboren. In seiner Freizeit spielt er gerne Volleyball."
+        colors="orange"
+        image={chris}
+        flag={austria}
       />
     </div>
   );

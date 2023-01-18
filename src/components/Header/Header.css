@@ -1,0 +1,21 @@
+.header {
+    background-color: #242424;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    display: flex;
+  }
+  
+  .header__title {
+    color: #ffffff;
+    font-size: 36px;
+    text-align: left;
+    margin-left: 30px;
+  }
+
+  .dornbirn {
+    color: red;
+    font-size: 36px;
+    text-align: left;
+    margin-left: 10px;
+  }
