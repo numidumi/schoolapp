@@ -29,7 +29,7 @@ function App() {
       <Cards
         name="Kristijan"
         lastName="Mladenovic"
-        desc="Krisijan ist 19 und kommt aus Hohenems. Er liebt es zu programmieren."
+        desc="Kristijan ist 19 und kommt aus Hohenems. Er liebt es zu programmieren."
         colors="red"
         image={kris}
         flag={serbia}
