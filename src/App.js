@@ -21,7 +21,7 @@ function App() {
         name="Metehan"
         lastName="Altundal"
         desc="Metehan ist 18 Jahre alt und kommt aus Dornbirn. 
-              Er liebt es zu programmieren. "
+              Die Geschichte ist sein Spezialgebiet."
         colors="blue"
         image={metehan}
         flag={turkey}
@@ -29,7 +29,7 @@ function App() {
       <Cards
         name="Kristijan"
         lastName="Mladenovic"
-        desc="Krisijan ist 19 und kommt aus Hohenems. Die Geschichte ist sein Spezialgebiet."
+        desc="Krisijan ist 19 und kommt aus Hohenems. Er liebt es zu programmieren."
         colors="red"
         image={kris}
         flag={serbia}
