@@ -4,6 +4,7 @@ import Cards from "./components/Cards.js";
 import atakan from "./components/images/atakan.png";
 import kris from "./components/images/kris.png";
 import metehan from "./components/images/metehan.png";
+import flo from "./components/images/flo.png";
 import chris from "./components/images/chris.png";
 import serbia from "./components/images/serbia.png";
 import turkey from "./components/images/turkey.png";
@@ -28,12 +29,20 @@ function App() {
         flag={turkey}
       />
       <Cards
-        name="Kristijan"
-        lastName="Mladenovic"
-        desc="Kristijan ist 19 und kommt aus Hohenems. Er liebt es zu programmieren."
-        colors="red"
-        image={kris}
-        flag={serbia}
+        name="Florian"
+        lastName="Blum"
+        desc="Florian ist 18 und wurde in Dornbirn geboren."
+        colors="blue"
+        image={flo}
+        flag={austria}
+      />
+      <Cards
+        name="Mathias"
+        lastName="Buchwald"
+        desc="Mathias ist 18 und wurde in Dornbirn geboren."
+        colors="yellow"
+        image={flo}
+        flag={austria}
       />
       <Cards
         name="Atakan"
@@ -52,6 +61,30 @@ function App() {
         flag={austria}
       />
       <Footer />
+      <Cards
+        name="Numan"
+        lastName="Erter"
+        desc="Numan ist 18 und wurde in Dornbirn geboren."
+        colors="brown"
+        image={flo}
+        flag={austria}
+      />
+      <Cards
+        name="Yannik"
+        lastName="Fischer"
+        desc="Christoph ist 19 und wurde in Dornbirn geboren. In seiner Freizeit spielt er gerne Volleyball."
+        colors="orange"
+        image={chris}
+        flag={austria}
+      />
+      <Cards
+        name="Kristijan"
+        lastName="Mladenovic"
+        desc="Kristijan ist 19 und kommt aus Hohenems. Er liebt es zu programmieren."
+        colors="red"
+        image={kris}
+        flag={serbia}
+      />
     </div>
   );
 }
