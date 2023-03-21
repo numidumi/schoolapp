@@ -41,7 +41,7 @@ function App() {
         name="Florian"
         lastName="Blum"
         desc="Florian ist 18 und wurde in Dornbirn geboren."
-        colors="blue"
+        colors="orange"
         image={flo}
         flag={austria}
       />
@@ -49,7 +49,7 @@ function App() {
         name="Mathias"
         lastName="Buchwald"
         desc="Mathias ist 18 und wurde in Dornbirn geboren."
-        colors="yellow"
+        colors="brown"
         image={mathias}
         flag={austria}
       />
@@ -65,7 +65,7 @@ function App() {
         name="Christoph"
         lastName="Derigo"
         desc="Christoph ist 19 und wurde in Dornbirn geboren. In seiner Freizeit spielt er gerne Volleyball."
-        colors="orange"
+        colors="green"
         image={chris}
         flag={austria}
       />
@@ -89,7 +89,7 @@ function App() {
         name="Sebastian"
         lastName="Gärtner"
         desc="Sebastian ist 19 und wurde in Dornbirn geboren."
-        colors="orange"
+        colors="blue"
         image={sebi}
         flag={austria}
       />
@@ -97,7 +97,7 @@ function App() {
         name="Sven"
         lastName="Hartmann"
         desc="Sven ist 18 und wurde in Dornbirn geboren."
-        colors="orange"
+        colors="blue"
         image={sven}
         flag={austria}
       />
@@ -113,7 +113,7 @@ function App() {
         name="Kai"
         lastName="Mayer"
         desc="Kai ist 19 und wurde in Dornbirn geboren."
-        colors="orange"
+        colors="brown"
         image={kai}
         flag={austria}
       />
@@ -121,7 +121,7 @@ function App() {
         name="Kristijan"
         lastName="Mladenovic"
         desc="Kristijan ist 19 und kommt aus Hohenems. Er liebt es zu programmieren."
-        colors="red"
+        colors="green"
         image={kris}
         flag={serbia}
       />
@@ -129,7 +129,7 @@ function App() {
         name="Matthias"
         lastName="Tschmelitsch"
         desc="Matthias ist 18 und wurde in Dornbirn geboren."
-        colors="orange"
+        colors="green"
         image={matthias}
         flag={austria}
       />
@@ -137,7 +137,7 @@ function App() {
         name="Fabian"
         lastName="Türtscher"
         desc="Fabian ist 18 und wurde in Dornbirn geboren."
-        colors="orange"
+        colors="brown"
         image={fabian}
         flag={austria}
       />
