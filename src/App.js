@@ -5,7 +5,17 @@ import atakan from "./components/images/atakan.png";
 import kris from "./components/images/kris.png";
 import metehan from "./components/images/metehan.png";
 import flo from "./components/images/flo.png";
+import mathias from "./components/images/mathias.png";
 import chris from "./components/images/chris.png";
+import numan from "./components/images/numan.png";
+import yannik from "./components/images/yannik.png";
+import sebi from "./components/images/sebi.png";
+import sven from "./components/images/sven.png";
+import niclas from "./components/images/niclas.png";
+import kai from "./components/images/kai.png";
+import fabian from "./components/images/fabian.png";
+import matthias from "./components/images/matthias.png";
+import elias from "./components/images/elias.png";
 import serbia from "./components/images/serbia.png";
 import turkey from "./components/images/turkey.png";
 import austria from "./components/images/austria.png";
@@ -40,7 +50,7 @@ function App() {
         lastName="Buchwald"
         desc="Mathias ist 18 und wurde in Dornbirn geboren."
         colors="yellow"
-        image={flo}
+        image={mathias}
         flag={austria}
       />
       <Cards
@@ -64,15 +74,47 @@ function App() {
         lastName="Erter"
         desc="Numan ist 18 und wurde in Dornbirn geboren."
         colors="brown"
-        image={flo}
-        flag={austria}
+        image={numan}
+        flag={turkey}
       />
       <Cards
         name="Yannik"
         lastName="Fischer"
-        desc="Christoph ist 19 und wurde in Dornbirn geboren. In seiner Freizeit spielt er gerne Volleyball."
+        desc="Yannik ist 19 und wurde in Dornbirn geboren."
         colors="orange"
-        image={chris}
+        image={yannik}
+        flag={austria}
+      />
+      <Cards
+        name="Sebastian"
+        lastName="Gärtner"
+        desc="Sebastian ist 19 und wurde in Dornbirn geboren."
+        colors="orange"
+        image={sebi}
+        flag={austria}
+      />
+      <Cards
+        name="Sven"
+        lastName="Hartmann"
+        desc="Sven ist 18 und wurde in Dornbirn geboren."
+        colors="orange"
+        image={sven}
+        flag={austria}
+      />
+      <Cards
+        name="Niclas"
+        lastName="Kostelac"
+        desc="Niclas ist 18 und wurde in Dornbirn geboren."
+        colors="orange"
+        image={niclas}
+        flag={austria}
+      />
+      <Cards
+        name="Kai"
+        lastName="Mayer"
+        desc="Kai ist 19 und wurde in Dornbirn geboren."
+        colors="orange"
+        image={kai}
         flag={austria}
       />
       <Cards
@@ -82,6 +124,30 @@ function App() {
         colors="red"
         image={kris}
         flag={serbia}
+      />
+      <Cards
+        name="Matthias"
+        lastName="Tschmelitsch"
+        desc="Matthias ist 18 und wurde in Dornbirn geboren."
+        colors="orange"
+        image={matthias}
+        flag={austria}
+      />
+      <Cards
+        name="Fabian"
+        lastName="Türtscher"
+        desc="Fabian ist 18 und wurde in Dornbirn geboren."
+        colors="orange"
+        image={fabian}
+        flag={austria}
+      />
+      <Cards
+        name="Elias"
+        lastName="Wohlgenannt"
+        desc="Elias ist 19 und wurde in Dornbirn geboren."
+        colors="orange"
+        image={elias}
+        flag={austria}
       />
     </div>
   );
