@@ -1,33 +1,16 @@
 import React from "react";
 import "./App.css";
-import Cards from "./components/Cards.js";
-import atakan from "./components/images/atakan.png";
-import kris from "./components/images/kris.png";
-import metehan from "./components/images/metehan.png";
-import flo from "./components/images/flo.png";
-import mathias from "./components/images/mathias.png";
-import chris from "./components/images/chris.png";
-import numan from "./components/images/numan.png";
-import yannik from "./components/images/yannik.png";
-import sebi from "./components/images/sebi.png";
-import sven from "./components/images/sven.png";
-import niclas from "./components/images/niclas.png";
-import kai from "./components/images/kai.png";
-import fabian from "./components/images/fabian.png";
-import matthias from "./components/images/matthias.png";
-import elias from "./components/images/elias.png";
-import serbia from "./components/images/serbia.png";
-import turkey from "./components/images/turkey.png";
-import austria from "./components/images/austria.png";
+import Cards from "./components/Students/Cards.js";
 import Header from "./components/Header/Header.js";
 import Home from "./components/subpages/Home.js";
 import Teachers from "./components/subpages/Teachers.js";
-import Students from "./components/subpages/Students.js";
+import Students from "./components/Students/Students.js";
 
 function App() {
   return (
     <div className="App">
       <Header />
+<<<<<<< HEAD
       <Cards
         name="Metehan"
         lastName="Altundal"
@@ -149,6 +132,9 @@ function App() {
         image={elias}
         flag={austria}
       />
+=======
+      <Students />
+>>>>>>> 0fb798f1d1cdec8cef5e1a61f06c006a6842f06e
     </div>
   );
 }
