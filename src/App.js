@@ -13,7 +13,6 @@ import Header from "./components/Header/Header.js";
 import Home from "./components/subpages/Home.js";
 import Teachers from "./components/subpages/Teachers.js";
 import Students from "./components/subpages/Students.js";
-import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -60,7 +59,6 @@ function App() {
         image={chris}
         flag={austria}
       />
-      <Footer />
       <Cards
         name="Numan"
         lastName="Erter"
