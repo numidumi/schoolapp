@@ -31,7 +31,7 @@ function App() {
         name="Florian"
         lastName="Blum"
         desc="Florian ist 18 und wurde in Dornbirn geboren."
-        colors="blue"
+        colors="purple"
         image={flo}
         flag={austria}
       />
@@ -83,6 +83,7 @@ function App() {
         image={kris}
         flag={serbia}
       />
+      
     </div>
   );
 }
