@@ -6,7 +6,7 @@ import flo from "./images/flo.png";
 import chris from "./images/chris.png";
 import kai from "./images/kai.png";
 import sebi from "./images/sebi.png";
-import numan from "./images/numan.png";
+import numan from "./images/numi.png";
 import fabian from "./images/fabian.png";
 import matthias from "./images/matthias.png";
 import elias from "./images/elias.png";
