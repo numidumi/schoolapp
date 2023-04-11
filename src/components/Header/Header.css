@@ -19,3 +19,27 @@
     text-align: left;
     margin-left: 10px;
   }
+
+  .home {
+    color: #ffffff;
+    font-size: 23px;
+    text-align: right;
+    margin-left: 760px;
+    margin-top: 36px;
+  }
+
+  .students {
+    color: #ffffff;
+    font-size: 23px;
+    text-align: right;
+    margin-left: 50px;
+    margin-top: 36px;
+  }
+
+  .aboutus {
+    color: #ffffff;
+    font-size: 23px;
+    text-align: right;
+    margin-left: 50px;
+    margin-top: 36px;
+  }
