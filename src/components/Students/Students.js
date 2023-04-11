@@ -19,6 +19,7 @@ import turkey from "./images/turkey.png";
 import austria from "./images/austria.png";
 import Cards from "./Cards.js";
 import Grid from "@mui/material/Grid";
+import Footer from "./Footer/Footer.js";
 
 const Students = () => {
   return (
@@ -176,6 +177,7 @@ const Students = () => {
           />
         </Grid>
       </Grid>
+      <Footer />
     </div>
   );
 };
