@@ -31,7 +31,7 @@ const Students = () => {
             lastName="Altundal"
             desc="Metehan ist 18 Jahre alt und kommt aus Dornbirn. 
               Die Geschichte ist sein Spezialgebiet."
-            colors="blue"
+            colors="#D92929"
             image={metehan}
             flag={turkey}
           />
