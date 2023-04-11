@@ -1,9 +1,10 @@
 .footer {
     background-color: #242424;
     text-align: center;
-    position: relative;
+    position: absolute;
     width: 100%;
     display: flex;
+    margin-top: 150px;
   }
 
   .footer_title {
