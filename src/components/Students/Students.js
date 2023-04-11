@@ -51,7 +51,7 @@ const Students = () => {
             name="Mathias"
             lastName="Buchwald"
             desc="Mathias ist 18 und wurde in Dornbirn geboren."
-            colors="brown"
+            colors="navy"
             image={mathias}
             flag={austria}
           />
@@ -61,7 +61,7 @@ const Students = () => {
             name="Atakan"
             lastName="Celik"
             desc="Atakan ist 19 und ist gebürtiger Dornbirner. Er ist der beste Kickboxer."
-            colors="green"
+            colors="darkgreen"
             image={atakan}
             flag={turkey}
           />
@@ -71,7 +71,7 @@ const Students = () => {
             name="Christoph"
             lastName="Derigo"
             desc="Christoph ist 19 und wurde in Dornbirn geboren. In seiner Freizeit spielt er gerne Volleyball."
-            colors="green"
+            colors="gold"
             image={chris}
             flag={austria}
           />
@@ -91,7 +91,7 @@ const Students = () => {
             name="Yannik"
             lastName="Fischer"
             desc="Yannik ist 19 und wurde in Dornbirn geboren."
-            colors="orange"
+            colors="black"
             image={yannik}
             flag={austria}
           />
@@ -101,7 +101,7 @@ const Students = () => {
             name="Sebastian"
             lastName="Gärtner"
             desc="Sebastian ist 19 und wurde in Dornbirn geboren."
-            colors="blue"
+            colors="#ff8009"
             image={sebi}
             flag={austria}
           />
@@ -111,7 +111,7 @@ const Students = () => {
             name="Sven"
             lastName="Hartmann"
             desc="Sven ist 18 und wurde in Dornbirn geboren."
-            colors="blue"
+            colors="cyan"
             image={sven}
             flag={austria}
           />
@@ -121,7 +121,7 @@ const Students = () => {
             name="Niclas"
             lastName="Kostelac"
             desc="Niclas ist 18 und wurde in Dornbirn geboren."
-            colors="orange"
+            colors="pink"
             image={niclas}
             flag={austria}
           />
@@ -141,7 +141,7 @@ const Students = () => {
             name="Kristijan"
             lastName="Mladenovic"
             desc="Kristijan ist 19 und kommt aus Hohenems. Er liebt es zu programmieren."
-            colors="green"
+            colors="purple"
             image={kris}
             flag={serbia}
           />
@@ -161,7 +161,7 @@ const Students = () => {
             name="Fabian"
             lastName="Türtscher"
             desc="Fabian ist 18 und wurde in Dornbirn geboren."
-            colors="brown"
+            colors="grey"
             image={fabian}
             flag={austria}
           />
@@ -171,7 +171,7 @@ const Students = () => {
             name="Elias"
             lastName="Wohlgenannt"
             desc="Elias ist 19 und wurde in Dornbirn geboren."
-            colors="orange"
+            colors="yellow"
             image={elias}
             flag={austria}
           />
