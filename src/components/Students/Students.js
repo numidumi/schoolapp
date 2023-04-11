@@ -141,7 +141,7 @@ const Students = () => {
             name="Kristijan"
             lastName="Mladenovic"
             desc="Kristijan ist 19 und kommt aus Hohenems. Er liebt es zu programmieren."
-            colors="mediumaquamarine"
+            colors="dodgerblue"
             image={kris}
             flag={serbia}
           />
